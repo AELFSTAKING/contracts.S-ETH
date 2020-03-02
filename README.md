@@ -4,7 +4,7 @@
 
 ## 介绍
 
-基于etherum智能合约，由solidity语言编写，是扩展了功能的erc20代币合约(https://eips.ethereum.org/EIPS/eip-20)。s-eth是eth的等比例兑换。
+基于etherum智能合约，由solidity语言编写，s-eth代币是eth主链币的等比例兑换，它也是扩展了功能的erc20代币合约(https://eips.ethereum.org/EIPS/eip-20)。
 
 
 
